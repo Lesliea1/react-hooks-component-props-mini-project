@@ -15,8 +15,7 @@ function App() {
       id: 1,
       title: "Getting Started with React",
       date: "August 17, 2023",
-      preview:
-        "Learn the basics of React and how to set up your first project.",
+      preview: "Follow along on my journey with React!",
     },
   ];
   return (
